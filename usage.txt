@@ -1,0 +1,1 @@
+MeshSimplification original.obj new.obj targetNum
